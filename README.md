@@ -51,7 +51,7 @@ As an alternative to the temporal view, you can create a t-SNE layout based on i
 ## Credits
 
 VIKUS Viewer was designed and developed by Christopher Pietsch. 
-The VIKUS Viewer software is based on the visualization code behind [Past Visions](https://github.com/cpietsch/fw4), a collaborative effort by Katrin Glinka, Christopher Pietsch, and Marian Dörk carried out at the University of Applied Sciences Potsdam in the context of the Urban Complexity Lab during the research project VIKUS (2014-2017). 
+The VIKUS Viewer software is based on the visualization code behind [Past Visions](https://github.com/cpietsch/fw4), a collaborative effort by Katrin Glinka, Christopher Pietsch, and Marian Dörk carried out at the University of Applied Sciences Potsdam in the context of the Urban Complexity Lab during the research project VIKUS (2014-2017). Related Paper: [Past Visions and Reconciling Views]( http://www.digitalhumanities.org/dhq/vol/11/2/000290/000290.html). 
 The T-SNE view has been implemented for the [Sphaera project](https://sphaera.mpiwg-berlin.mpg.de/) with funding from [Chronoi-REM](https://www.berliner-antike-kolleg.org/rem)
 
 ### Libraries
@@ -61,24 +61,9 @@ The T-SNE view has been implemented for the [Sphaera project](https://sphaera.mp
 ## License
 
 You may use VIKUS Viewer under the terms of the MIT License. See http://en.wikipedia.org/wiki/MIT_License for more information.
+Copyright (C) 2017-2019 Christopher Pietsch, and contributors
 
+## Gallery
 
-Copyright (C) 2018 Christopher Pietsch, and contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
- THE SOFTWARE.
+- [Lego Sets 1955-2019](http://nijdam.nu/vikus-viewer/) by [Pin0](https://github.com/Pin0)
+- [Swedish Nationalmuseum](https://riksantikvarieambetet.github.io/VIKUS-Viewer-Nationalmuseum/) by [Swedish National Heritage Board](https://www.raa.se/)
